@@ -1,0 +1,6 @@
+c:\users\jeremy\documents\visual studio 2013\Projects\C Programming Paradigms\C Programming Paradigms\bin\Debug\C Programming Paradigms.exe.config
+c:\users\jeremy\documents\visual studio 2013\Projects\C Programming Paradigms\C Programming Paradigms\obj\Debug\C Programming Paradigms.csprojResolveAssemblyReference.cache
+c:\users\jeremy\documents\visual studio 2013\Projects\C Programming Paradigms\C Programming Paradigms\bin\Debug\C Programming Paradigms.exe
+c:\users\jeremy\documents\visual studio 2013\Projects\C Programming Paradigms\C Programming Paradigms\bin\Debug\C Programming Paradigms.pdb
+c:\users\jeremy\documents\visual studio 2013\Projects\C Programming Paradigms\C Programming Paradigms\obj\Debug\C Programming Paradigms.exe
+c:\users\jeremy\documents\visual studio 2013\Projects\C Programming Paradigms\C Programming Paradigms\obj\Debug\C Programming Paradigms.pdb
